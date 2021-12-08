@@ -1,0 +1,3 @@
+# my-shop
+
+this is a demo site to try my hands on various stuffs such as actions and cloud and deployment things etc....
